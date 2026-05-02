@@ -1,3 +1,4 @@
-baseURL = 'https://example.org/'
-locale = 'en-us'
-title = 'My New Hugo Project'
+baseURL = 'https://tomokikamiya.github.io'
+locale = 'ja-jp'
+title = 'TOMOKI KAMIYA | 神谷 知樹'
+theme = "PaperMod"
