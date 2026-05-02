@@ -2,3 +2,7 @@ baseURL = 'https://tomokikamiya.github.io'
 locale = 'ja-jp'
 title = 'TOMOKI KAMIYA | 神谷 知樹'
 theme = "PaperMod"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
