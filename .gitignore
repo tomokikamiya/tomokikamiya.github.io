@@ -1,0 +1,12 @@
+# Hugo ビルド出力
+/public
+/resources
+.hugo_build.lock
+
+# OS
+.DS_Store
+Thumbs.db
+
+# エディタ
+.vscode/
+.idea/
